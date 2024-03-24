@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example</groupId>
+  <artifactId>MainProject</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <name>Main-Project</name>
+  <url>http://maven.apache.org</url>
+  <packaging>pom</packaging>
+  <modules>
+    <module>01_COBOL</module>
+    <module>02_Java</module>
+    <module>03_C</module>
+    <module>04_TestDriver</module>
+  </modules>
+  
+  <dependencies>
+  </dependencies>
+  <build>
+  <plugins>
+  </plugins>
+  </build>
+</project>
